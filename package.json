@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dbwood3.lwc-l8unom85",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve S3WxjGEc7lb6xsQewj97 --open"
+  }
+}
